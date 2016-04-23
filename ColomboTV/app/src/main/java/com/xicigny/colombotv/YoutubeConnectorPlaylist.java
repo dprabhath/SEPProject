@@ -22,7 +22,7 @@ public class YoutubeConnectorPlaylist {
 	private YouTube.PlaylistItems.List query;
 	
 	// Your developer key goes here
-	public static final String KEY = "AIzaSyC2ryQuBnOeZU39xKYLZ3L0d9Kc_7sYi4A";
+	public static final String KEY = "AIzaSyDqBYg-Wuj5MSzcLa_NfsRMcP52bWPmM6A";
 	
 	public YoutubeConnectorPlaylist(Context context) {
 		youtube = new YouTube.Builder(new NetHttpTransport(), 

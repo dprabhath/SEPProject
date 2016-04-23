@@ -47,7 +47,7 @@
     <!-- TODO(user): replace with your real server client ID -->
     <!-- Server Client ID.  This should be a valid Web OAuth 2.0 Client ID obtained
          from https://console.developers.google.com/ -->
-    <string name="server_client_id">462377190147-5si01fdekm5qri7ltnq04m1ov7t5l5sb.apps.googleusercontent.com</string>
+    <string name="server_client_id">529673441400-tgm04kneb6cfir187ccg2nv6chh133ob.apps.googleusercontent.com</string>
     <string name="action_search">Search</string>
     <string name="action_logout">Logout</string>
     <string name="search">search keywords</string>
